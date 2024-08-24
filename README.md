@@ -1,9 +1,7 @@
-<!DOCTYPE html>
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tabela</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Palatino+Linotype&display=swap');
         @import url('https://fonts.googleapis.com/css2?family=Aptos+Narrow&display=swap');
