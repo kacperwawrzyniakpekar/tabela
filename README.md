@@ -10,7 +10,7 @@
         @import url('https://fonts.googleapis.com/css2?family=Candara&display=swap');
         @import url('https://fonts.googleapis.com/css2?family=Bank+Gothic+Lt+BT&display=swap');
 
-        table {
+table {
             border-collapse: collapse;
             width: 100%;
             height: 400px;
